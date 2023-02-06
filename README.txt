@@ -1,3 +1,9 @@
-Estrutura de Dados em C
+# Data Structure
+Learning Data Structure using C
 
-Talvez algum código esteja incompleto, mas nada tão grave.
+```bash
+
+Using {
+  C
+}
+```
